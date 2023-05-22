@@ -1,5 +1,5 @@
 # FLP Logický projekt 2022/2023 - Rubikova kostka v jazyce PROLOG
-## Mare Hlávka - xhlavk09
+## Marek Hlávka - xhlavk09
 
 ## Návod k použití
 ### Přeložení
